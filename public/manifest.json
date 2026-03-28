@@ -1,0 +1,27 @@
+{
+  "name": "React Pro — Learn React with Lessons and Practice",
+  "short_name": "React Pro",
+  "description": "A comprehensive React learning journey from fundamentals to advanced state management.",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#c87941",
+  "background_color": "#f5efe6",
+  "icons": [
+    {
+      "src": "/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
